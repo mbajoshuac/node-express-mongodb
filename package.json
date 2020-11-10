@@ -1,29 +1,31 @@
 {
-  "name": "elearning-app",
-  "version": "1.0.0",
-  "description": "A elearning application for funnelhackers",
-  "main": "app.js",
-  "dependencies": {
-    "express": "^4.17.1",
-    "node": "^15.0.1"
-  },
-  "devDependencies": {},
-  "scripts": {
-    "test": "npm test"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/mbajoshuac/elearn.git"
-  },
-  "keywords": [
-    "elearning",
-    "online",
-    "learning"
-  ],
-  "author": "Joshua Mba",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/mbajoshuac/elearn/issues"
-  },
-  "homepage": "https://github.com/mbajoshuac/elearn#readme"
+    "name": "node-express-mongodb-project-kit",
+    "version": "1.0.0",
+    "description": "Quick snippet for Node, express, mongodb project",
+    "main": "app.js",
+    "dependencies": {
+        "express": "^4.17.1",
+        "node": "^15.0.1"
+    },
+    "devDependencies": {
+        "dotenv": "^8.2.0"
+    },
+    "scripts": {
+        "test": "npm test"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/mbajoshuac/node-express-mongodb.git"
+    },
+    "keywords": [
+        "elearning",
+        "online",
+        "learning"
+    ],
+    "author": "Joshua Mba",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/mbajoshuac/node-express-mongodb/issues"
+    },
+    "homepage": "https://github.com/mbajoshuac/node-express-mongodb#readme"
 }
